@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "comps-vue3-popular",
+    "app_group_name": "comps-vue3-popular",
+    "git_repo_url": "",
+    "online_version": "2026.11.16-1",
+    "build_version": "2026.11.16-1",
+    "platform": "unpkg",
+    "create_at": "2026-11-17T07:38:16.896Z"
+  },
+  "version": {
+    "plugin_ver": "5.4.3",
+    "extract_mode": "build",
+    "sub_app_name": "comps-vue3-popular",
+    "sub_app_version": "comps-vue3-popular@2026.11.16-1",
+    "version_tag": "2026.11.16-1",
+    "src_map": {
+      "webDirPath": "/comps-vue3-popular/hel_dist",
+      "htmlIndexSrc": "/comps-vue3-popular/hel_dist/index.html",
+      "extractMode": "all",
+      "iframeSrc": "",
+      "chunkCssSrcList": [
+        "/comps-vue3-popular/hel_dist/assets/style-D0gkVJjQ.css"
+      ],
+      "chunkJsSrcList": [
+        "/comps-vue3-popular/hel_dist/assets/index-D7fpqFWR.js",
+        "/comps-vue3-popular/hel_dist/assets/preload-helper-C1p-VwOw.js",
+        "/comps-vue3-popular/hel_dist/assets/shared-runtime-BGC7oPTQ.js",
+        "/comps-vue3-popular/hel_dist/assets/vendor-Dgk8SOGf.js"
+      ],
+      "staticCssSrcList": [],
+      "staticJsSrcList": [
+        "https://unpkg.com/vue@3.5.45/dist/vue.global.js"
+      ],
+      "relativeCssSrcList": [],
+      "relativeJsSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "staticScript",
+          "append": false,
+          "attrs": {
+            "src": "https://unpkg.com/vue@3.5.45/dist/vue.global.js"
+          }
+        },
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/comps-vue3-popular/hel_dist/assets/index-D7fpqFWR.js",
+            "type": "module",
+            "crossorigin": ""
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/comps-vue3-popular/hel_dist/assets/preload-helper-C1p-VwOw.js",
+            "rel": "modulepreload",
+            "crossorigin": ""
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/comps-vue3-popular/hel_dist/assets/vendor-Dgk8SOGf.js",
+            "rel": "modulepreload",
+            "crossorigin": ""
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/comps-vue3-popular/hel_dist/assets/shared-runtime-BGC7oPTQ.js",
+            "rel": "modulepreload",
+            "crossorigin": ""
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/comps-vue3-popular/hel_dist/assets/style-D0gkVJjQ.css",
+            "rel": "stylesheet",
+            "crossorigin": ""
+          }
+        }
+      ],
+      "bodyAssetList": [],
+      "otherSrcList": [
+        "/comps-vue3-popular/hel_dist/assets/index-D7fpqFWR.js.gz",
+        "/comps-vue3-popular/hel_dist/assets/vendor-Dgk8SOGf.js.gz",
+        "/comps-vue3-popular/hel_dist/index.html"
+      ],
+      "srvModSrcList": [],
+      "srvModSrcIndex": ""
+    },
+    "html_content": "<!doctype html>\r\n<html lang=\"zh-CN\">\r\n  <head>\r\n    <meta charset=\"UTF-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>comps-vue3-popular · 从夯到拉排行榜</title>\r\n    <script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.45/dist/vue.global.js\"></script>\r\n    <script type=\"module\" crossorigin src=\"/comps-vue3-popular/hel_dist/assets/index-D7fpqFWR.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-popular/hel_dist/assets/preload-helper-C1p-VwOw.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-popular/hel_dist/assets/vendor-Dgk8SOGf.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-popular/hel_dist/assets/shared-runtime-BGC7oPTQ.js\">\n    <link rel=\"stylesheet\" crossorigin href=\"/comps-vue3-popular/hel_dist/assets/style-D0gkVJjQ.css\">\n  </head>\r\n  <body>\r\n    <div id=\"comps-vue3-popular-demo\"></div>\r\r\n  </body>\r\n</html>\r\n",
+    "create_at": "2026-11-17T07:38:16.896Z",
+    "desc": "this version meta is created by hel-dev-utils@5.4.3"
+  }
+}
